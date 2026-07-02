@@ -1,0 +1,469 @@
+<svg viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg" width="900" height="280">
+<defs>
+<style>@keyframes f16{0%{transform:translateY(-280px);opacity:0}8%{opacity:1}85%{opacity:0.85}100%{transform:translateY(280px);opacity:0}}</style>
+<style>@keyframes f19{0%{transform:translateY(-280px);opacity:0}8%{opacity:1}85%{opacity:0.85}100%{transform:translateY(280px);opacity:0}}</style>
+<style>@keyframes f22{0%{transform:translateY(-280px);opacity:0}8%{opacity:1}85%{opacity:0.85}100%{transform:translateY(280px);opacity:0}}</style>
+<style>@keyframes f26{0%{transform:translateY(-280px);opacity:0}8%{opacity:1}85%{opacity:0.85}100%{transform:translateY(280px);opacity:0}}</style>
+<style>@keyframes f30{0%{transform:translateY(-280px);opacity:0}8%{opacity:1}85%{opacity:0.85}100%{transform:translateY(280px);opacity:0}}</style>
+<style>@keyframes f34{0%{transform:translateY(-280px);opacity:0}8%{opacity:1}85%{opacity:0.85}100%{transform:translateY(280px);opacity:0}}</style>
+<style>@keyframes f39{0%{transform:translateY(-280px);opacity:0}8%{opacity:1}85%{opacity:0.85}100%{transform:translateY(280px);opacity:0}}</style>
+<style>@keyframes f44{0%{transform:translateY(-280px);opacity:0}8%{opacity:1}85%{opacity:0.85}100%{transform:translateY(280px);opacity:0}}</style>
+<style>
+@keyframes gpulse{0%,100%{filter:drop-shadow(0 0 5px #00ff41) drop-shadow(0 0 12px #003300)}
+50%{filter:drop-shadow(0 0 14px #00ff41) drop-shadow(0 0 30px #00aa22) drop-shadow(0 0 50px #002200)}}
+@keyframes cblink{0%,100%{opacity:1}49%{opacity:1}50%,99%{opacity:0}}
+@keyframes scanline{0%{transform:translateY(-5px);opacity:0.04}100%{transform:translateY(285px);opacity:0}}
+</style>
+<filter id="tg" x="-30%" y="-50%" width="160%" height="200%">
+<feGaussianBlur in="SourceGraphic" stdDeviation="4" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+<rect width="900" height="280" fill="#000000"/>
+<g style="animation:f19 1.9s linear 0.1s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="4" y="14">ﾎ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="4" y="28">ｱ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="4" y="42">ﾆ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="4" y="56">ﾅ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="4" y="70">7</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="4" y="84">ｼ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="4" y="98">ｺ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#003308" x="4" y="112">ﾏ</text>
+</g>
+<g style="animation:f16 1.6s linear 0.11s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="25" y="14">ｱ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="25" y="28">3</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="25" y="42">ﾉ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="25" y="56">ﾐ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="25" y="70">ｲ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="25" y="84">ｵ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="25" y="98">7</text>
+</g>
+<g style="animation:f39 3.9s linear 0.84s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="46" y="14">ﾏ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="46" y="28">ﾊ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="46" y="42">ﾜ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="46" y="56">ﾏ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="46" y="70">ｶ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="46" y="84">ﾏ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="46" y="98">ｻ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#003308" x="46" y="112">ﾘ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#001e05" x="46" y="126">ｶ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#000e02" x="46" y="140">ﾅ</text>
+</g>
+<g style="animation:f19 1.9s linear 1.44s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="67" y="14">ｻ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="67" y="28">ﾉ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="67" y="42">ﾃ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="67" y="56">ﾋ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="67" y="70">0</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="67" y="84">7</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="67" y="98">ﾓ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#003308" x="67" y="112">ﾈ</text>
+</g>
+<g style="animation:f19 1.9s linear 2.1s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="88" y="14">ﾀ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="88" y="28">ｪ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="88" y="42">ｵ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="88" y="56">ｳ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="88" y="70">ﾋ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="88" y="84">ｱ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="88" y="98">ｹ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#003308" x="88" y="112">ｼ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#001e05" x="88" y="126">ｱ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#000e02" x="88" y="140">ﾅ</text>
+</g>
+<g style="animation:f39 3.9s linear 1.06s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="109" y="14">ﾜ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="109" y="28">ﾀ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="109" y="42">ｻ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="109" y="56">ﾘ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="109" y="70">ﾏ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="109" y="84">ｳ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="109" y="98">ﾉ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#003308" x="109" y="112">ｷ</text>
+</g>
+<g style="animation:f22 2.2s linear 2.03s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="130" y="14">ﾜ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="130" y="28">0</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="130" y="42">ﾈ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="130" y="56">ﾏ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="130" y="70">ｷ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="130" y="84">ｲ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="130" y="98">ｱ</text>
+</g>
+<g style="animation:f34 3.4s linear 3.2s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="151" y="14">ｱ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="151" y="28">ﾋ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="151" y="42">ｴ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="151" y="56">ﾎ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="151" y="70">ﾏ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="151" y="84">ｳ</text>
+</g>
+<g style="animation:f26 2.6s linear 3.47s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="172" y="14">ｴ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="172" y="28">ﾘ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="172" y="42">2</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="172" y="56">ﾎ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="172" y="70">0</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="172" y="84">ｻ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="172" y="98">ﾃ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#003308" x="172" y="112">ﾆ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#001e05" x="172" y="126">ﾎ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#000e02" x="172" y="140">ｲ</text>
+</g>
+<g style="animation:f30 3.0s linear 2.84s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="193" y="14">ｺ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="193" y="28">ﾎ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="193" y="42">ﾀ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="193" y="56">ｱ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="193" y="70">ﾆ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="193" y="84">3</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="193" y="98">2</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#003308" x="193" y="112">ｼ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#001e05" x="193" y="126">ｰ</text>
+</g>
+<g style="animation:f19 1.9s linear 0.58s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="214" y="14">ﾏ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="214" y="28">ﾉ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="214" y="42">ｳ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="214" y="56">ﾈ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="214" y="70">ﾈ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="214" y="84">ﾉ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="214" y="98">0</text>
+</g>
+<g style="animation:f30 3.0s linear 3.69s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="235" y="14">ﾓ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="235" y="28">7</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="235" y="42">ﾏ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="235" y="56">ｶ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="235" y="70">ﾓ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="235" y="84">ｹ</text>
+</g>
+<g style="animation:f39 3.9s linear 0.6s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="256" y="14">ﾃ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="256" y="28">3</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="256" y="42">ﾂ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="256" y="56">3</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="256" y="70">ﾅ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="256" y="84">ｷ</text>
+</g>
+<g style="animation:f30 3.0s linear 3.2s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="277" y="14">ﾉ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="277" y="28">ｵ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="277" y="42">ｻ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="277" y="56">ﾀ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="277" y="70">ﾜ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="277" y="84">7</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="277" y="98">Z</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#003308" x="277" y="112">ﾊ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#001e05" x="277" y="126">ﾉ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#000e02" x="277" y="140">ｴ</text>
+</g>
+<g style="animation:f44 4.4s linear 0.07s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="298" y="14">ﾒ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="298" y="28">ﾎ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="298" y="42">ｰ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="298" y="56">ﾎ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="298" y="70">ｪ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="298" y="84">ｼ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="298" y="98">ｼ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#003308" x="298" y="112">2</text>
+</g>
+<g style="animation:f19 1.9s linear 3.72s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="319" y="14">ﾆ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="319" y="28">ﾆ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="319" y="42">1</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="319" y="56">ｲ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="319" y="70">ﾜ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="319" y="84">ﾃ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="319" y="98">Z</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#003308" x="319" y="112">ﾉ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#001e05" x="319" y="126">ﾏ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#000e02" x="319" y="140">ﾘ</text>
+</g>
+<g style="animation:f26 2.6s linear 2.71s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="340" y="14">ﾀ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="340" y="28">ｹ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="340" y="42">Z</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="340" y="56">ｹ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="340" y="70">ﾓ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="340" y="84">ﾎ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="340" y="98">ｱ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#003308" x="340" y="112">ｳ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#001e05" x="340" y="126">ｶ</text>
+</g>
+<g style="animation:f16 1.6s linear 2.24s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="361" y="14">ｺ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="361" y="28">ｱ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="361" y="42">ﾊ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="361" y="56">ｳ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="361" y="70">ｷ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="361" y="84">ｰ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="361" y="98">ｱ</text>
+</g>
+<g style="animation:f19 1.9s linear 3.44s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="382" y="14">ｳ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="382" y="28">3</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="382" y="42">ﾎ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="382" y="56">ﾏ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="382" y="70">2</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="382" y="84">ﾘ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="382" y="98">7</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#003308" x="382" y="112">ﾆ</text>
+</g>
+<g style="animation:f44 4.4s linear 0.92s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="403" y="14">ﾃ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="403" y="28">ｵ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="403" y="42">ﾅ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="403" y="56">ﾅ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="403" y="70">ﾏ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="403" y="84">ｻ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="403" y="98">ﾏ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#003308" x="403" y="112">ﾃ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#001e05" x="403" y="126">0</text>
+</g>
+<g style="animation:f16 1.6s linear 2.56s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="424" y="14">ｰ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="424" y="28">ﾎ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="424" y="42">ｶ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="424" y="56">ﾅ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="424" y="70">ﾎ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="424" y="84">ｵ</text>
+</g>
+<g style="animation:f26 2.6s linear 2.04s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="445" y="14">ﾏ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="445" y="28">ﾂ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="445" y="42">ﾏ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="445" y="56">0</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="445" y="70">ﾎ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="445" y="84">ｳ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="445" y="98">ｹ</text>
+</g>
+<g style="animation:f19 1.9s linear 0.19s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="466" y="14">ﾊ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="466" y="28">ｼ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="466" y="42">ﾎ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="466" y="56">ﾜ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="466" y="70">ﾃ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="466" y="84">2</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="466" y="98">1</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#003308" x="466" y="112">ﾘ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#001e05" x="466" y="126">ﾎ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#000e02" x="466" y="140">ｰ</text>
+</g>
+<g style="animation:f22 2.2s linear 1.44s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="487" y="14">ﾃ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="487" y="28">0</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="487" y="42">ｹ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="487" y="56">ﾏ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="487" y="70">ｲ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="487" y="84">2</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="487" y="98">ｻ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#003308" x="487" y="112">ｵ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#001e05" x="487" y="126">ｹ</text>
+</g>
+<g style="animation:f26 2.6s linear 3.68s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="508" y="14">7</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="508" y="28">ｰ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="508" y="42">ｴ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="508" y="56">ｰ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="508" y="70">ｰ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="508" y="84">ｺ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="508" y="98">1</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#003308" x="508" y="112">3</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#001e05" x="508" y="126">Z</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#000e02" x="508" y="140">ﾜ</text>
+</g>
+<g style="animation:f16 1.6s linear 3.65s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="529" y="14">ﾂ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="529" y="28">ｳ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="529" y="42">ﾉ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="529" y="56">ｳ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="529" y="70">ﾎ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="529" y="84">ﾎ</text>
+</g>
+<g style="animation:f19 1.9s linear 3.58s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="550" y="14">ﾎ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="550" y="28">ｺ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="550" y="42">ﾉ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="550" y="56">ﾋ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="550" y="70">ﾌ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="550" y="84">ｼ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="550" y="98">ﾃ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#003308" x="550" y="112">ｺ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#001e05" x="550" y="126">ｪ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#000e02" x="550" y="140">Z</text>
+</g>
+<g style="animation:f34 3.4s linear 3.55s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="571" y="14">ｴ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="571" y="28">ﾎ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="571" y="42">ﾃ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="571" y="56">ﾎ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="571" y="70">ﾆ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="571" y="84">ﾒ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="571" y="98">0</text>
+</g>
+<g style="animation:f34 3.4s linear 3.53s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="592" y="14">ﾊ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="592" y="28">0</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="592" y="42">ﾌ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="592" y="56">ｪ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="592" y="70">ﾅ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="592" y="84">ｳ</text>
+</g>
+<g style="animation:f26 2.6s linear 1.92s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="613" y="14">ｻ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="613" y="28">ｳ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="613" y="42">ﾎ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="613" y="56">ﾀ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="613" y="70">ｹ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="613" y="84">ﾜ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="613" y="98">ｹ</text>
+</g>
+<g style="animation:f30 3.0s linear 2.32s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="634" y="14">ﾊ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="634" y="28">ｲ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="634" y="42">ﾒ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="634" y="56">ﾅ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="634" y="70">ﾆ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="634" y="84">ﾃ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="634" y="98">ﾓ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#003308" x="634" y="112">ﾅ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#001e05" x="634" y="126">ｲ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#000e02" x="634" y="140">ｻ</text>
+</g>
+<g style="animation:f30 3.0s linear 1.07s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="655" y="14">ｶ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="655" y="28">ﾘ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="655" y="42">ｷ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="655" y="56">ﾃ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="655" y="70">3</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="655" y="84">2</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="655" y="98">ﾃ</text>
+</g>
+<g style="animation:f16 1.6s linear 0.35s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="676" y="14">ﾏ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="676" y="28">ﾋ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="676" y="42">ﾊ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="676" y="56">ｶ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="676" y="70">ﾆ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="676" y="84">ｷ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="676" y="98">ﾃ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#003308" x="676" y="112">ﾜ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#001e05" x="676" y="126">ｹ</text>
+</g>
+<g style="animation:f39 3.9s linear 2.13s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="697" y="14">ｳ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="697" y="28">ｻ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="697" y="42">7</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="697" y="56">ﾋ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="697" y="70">ﾀ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="697" y="84">ｺ</text>
+</g>
+<g style="animation:f22 2.2s linear 1.63s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="718" y="14">ﾒ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="718" y="28">ﾀ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="718" y="42">ﾋ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="718" y="56">ｻ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="718" y="70">ﾘ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="718" y="84">ﾎ</text>
+</g>
+<g style="animation:f19 1.9s linear 1.34s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="739" y="14">ﾃ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="739" y="28">ﾌ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="739" y="42">ｻ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="739" y="56">ﾎ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="739" y="70">ﾜ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="739" y="84">ﾂ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="739" y="98">ﾃ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#003308" x="739" y="112">ﾐ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#001e05" x="739" y="126">ﾂ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#000e02" x="739" y="140">ｶ</text>
+</g>
+<g style="animation:f39 3.9s linear 3.05s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="760" y="14">ﾏ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="760" y="28">ﾜ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="760" y="42">ﾅ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="760" y="56">ﾈ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="760" y="70">ﾋ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="760" y="84">1</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="760" y="98">ｱ</text>
+</g>
+<g style="animation:f26 2.6s linear 3.1s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="781" y="14">ｻ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="781" y="28">ﾒ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="781" y="42">ｱ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="781" y="56">ｱ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="781" y="70">ﾐ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="781" y="84">ｵ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="781" y="98">ﾎ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#003308" x="781" y="112">ｶ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#001e05" x="781" y="126">ﾏ</text>
+</g>
+<g style="animation:f19 1.9s linear 3.67s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="802" y="14">ｻ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="802" y="28">3</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="802" y="42">ﾎ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="802" y="56">7</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="802" y="70">ｶ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="802" y="84">ﾐ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="802" y="98">ﾓ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#003308" x="802" y="112">ﾃ</text>
+</g>
+<g style="animation:f22 2.2s linear 2.21s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="823" y="14">ﾋ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="823" y="28">ﾅ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="823" y="42">ﾉ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="823" y="56">ﾏ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="823" y="70">ｻ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="823" y="84">ｴ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="823" y="98">ﾏ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#003308" x="823" y="112">ﾉ</text>
+</g>
+<g style="animation:f19 1.9s linear 1.46s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="844" y="14">ｵ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="844" y="28">ﾃ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="844" y="42">ﾋ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="844" y="56">ﾏ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="844" y="70">ﾊ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="844" y="84">Z</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="844" y="98">7</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#003308" x="844" y="112">ｵ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#001e05" x="844" y="126">ﾀ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#000e02" x="844" y="140">ﾏ</text>
+</g>
+<g style="animation:f19 1.9s linear 3.61s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="865" y="14">ﾌ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="865" y="28">ｴ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="865" y="42">ﾓ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="865" y="56">ﾒ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="865" y="70">3</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="865" y="84">ﾒ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="865" y="98">ﾃ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#003308" x="865" y="112">ｴ</text>
+</g>
+<g style="animation:f39 3.9s linear 2.65s infinite">
+<text font-family="'Courier New',monospace" font-size="13" fill="#ccffcc" x="886" y="14">ﾆ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00ff41" x="886" y="28">ｵ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00dd37" x="886" y="42">ﾃ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#00bb2e" x="886" y="56">ﾈ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#009924" x="886" y="70">ﾂ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#007719" x="886" y="84">ﾌ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#005511" x="886" y="98">ｪ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#003308" x="886" y="112">ﾒ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#001e05" x="886" y="126">ﾎ</text>
+<text font-family="'Courier New',monospace" font-size="13" fill="#000e02" x="886" y="140">ｲ</text>
+</g>
+<rect width="900" height="8" fill="rgba(0,255,65,0.04)" style="animation:scanline 4s linear infinite"/>
+<rect x="0" y="78" width="900" height="152" fill="rgba(0,0,0,0.72)"/>
+<line x1="40" y1="88" x2="860" y2="88" stroke="#00ff41" stroke-width="0.6" opacity="0.5"/>
+<line x1="40" y1="248" x2="860" y2="248" stroke="#00ff41" stroke-width="0.6" opacity="0.5"/>
+<text font-family="'Courier New',monospace" font-size="20" fill="#00ff41" opacity="0.55" x="44" y="108">⌐</text>
+<text font-family="'Courier New',monospace" font-size="20" fill="#00ff41" opacity="0.55" x="844" y="108">¬</text>
+<text text-anchor="middle" x="450" y="107" font-family="'Courier New',monospace" font-size="9" fill="#009922" letter-spacing="4" opacity="0.9">[ PRINCIPAL CYBER SECURITY PROFESSIONAL ]</text>
+<text text-anchor="middle" x="450" y="162" font-family="'Courier New',monospace" font-size="48" font-weight="bold" fill="#00ff41" letter-spacing="10" filter="url(#tg)" style="animation:gpulse 3.2s ease-in-out infinite">PRATIK LUHANA</text>
+<text text-anchor="middle" x="450" y="192" font-family="'Courier New',monospace" font-size="11" fill="#00aa22" letter-spacing="3.5">AI SECURITY  ·  Information Security  ·  VAPT  ·  HARDWARE HACKING  ·  DARK WEB/Dark Net</text>
+<text text-anchor="middle" x="450" y="228" font-family="'Courier New',monospace" font-size="12" fill="#00ff41" opacity="0.7">root@D@4k@rmy:~# </text>
+<text x="516" y="228" font-family="'Courier New',monospace" font-size="12" fill="#00ff41" style="animation:cblink 1.1s step-end infinite">█</text>
+</svg>
